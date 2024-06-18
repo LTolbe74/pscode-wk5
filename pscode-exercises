@@ -1,0 +1,61 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+a + b = c
+
+num1 + num2 = sum
+print sum
+
+ask for 2 numbers 
+add the 2 number together 
+print on the screen the sum of those 2 numbers
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+Num = int
+Sum = int
+Ask for number
+If Num/2= Sum
+Print Even
+Else 
+Print Odd
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+(Num1 + Num2 +Num3 +Num 4 +Num 5)/ 5 = average
+Read 5 numbers
+Add the 5 numbers together and divide sum by 5
+Print on the screen the average of the 5 numbers
+
+Num1 <Num2
+Set Minimum to Num1
+Else
+Set Minimum to Num2
+Num3< Minimum
+Set Minimum to Num3
+Num4<Minimum
+Set Minimum to Num4
+Num5< Minimum
+Set Minimum to Num5
+Print on screen the Minimum of 5 Numbers
+
+Num1> Num2
+Set Maximum to Num1
+Else 
+Set Maximum to Num2
+Num3 > Maximum
+Set Maximum to Num3
+Num4 > Maximum 
+Set Maximum to Num4
+Num5> Maximum
+Set Maximum to Num5
+Print on screen the Maximum of 5 Numbers
+
+
+-- END --
